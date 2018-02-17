@@ -1,1 +1,1 @@
-# BAEmailScrapper
+# BAEmailScraper
