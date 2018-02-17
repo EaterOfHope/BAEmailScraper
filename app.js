@@ -9,4 +9,4 @@ var searchQuery = 'keyword "@gmail.com" "@live.com" "@yahoo.com" "@hotmail.com"'
 
 // Note: Don't query to many pages at once. Query 1 to 5 than 6 - 10 and so on. Google will block you if you query to much at once.
 
-BAEmailScraper.start(searchQuery, 1, 1, "myList.txt");
+BAEmailScraper.start(searchQuery, 1, 1, "myEmailList.txt");
